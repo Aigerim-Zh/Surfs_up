@@ -8,7 +8,9 @@ In this project, I am tasked with running weather analysis for Oahu, Hawaii, to 
 * Databases with ```SQLite``` and ```SQLAlchemy```
 * Programming Tools: ```Python SQL toolkit (SQLAlchemy)```, ```Object Relational Mapper (ORM)```, ```Pandas```, ```numpy```
 * Software: ```Python 3.9.2``` through ```Jupyter Notebook```
-
+* Code: 
+    * [SurfsUp_Challenge.ipynb](https://github.com/Aigerim-Zh/Surfs_up/blob/main/Code/SurfsUp_Challenge.ipynb) for the analysis from January 1, 2010, to August 23, 2017.
+    * [climate_analysis.ipynb](https://github.com/Aigerim-Zh/Surfs_up/blob/main/Code/climate_analysis.ipynb) for the additional analysis from August 23, 2018, and August 23, 2017.
 All SQLite databases are flat files, i.e., they don’t have relationships that connect the data to anything else. As a result, flat files can be stored locally, which will help move quicker through the analysis.
 
 
@@ -40,6 +42,6 @@ These queries will not only help identify optimal locations based on the average
 ![](https://github.com/Aigerim-Zh/Surfs_up/blob/main/Results/December_by_Station.png)
 
 ## Further Analysis
-There is a similar analysis done on the weather data in Oahu: [](). It includes precipitation, station, and temperature analysis between August 23, 2016, and August 23, 2017. 
+There is a similar analysis done on the weather data in Oahu: [climate_analysis.ipynb](https://github.com/Aigerim-Zh/Surfs_up/blob/main/Code/climate_analysis.ipynb). It includes precipitation, station, and temperature analysis between August 23, 2016, and August 23, 2017. 
 
 In general, for the analysis for June and December, it will be also useful to look at the summary statistics for precipitation. 
